@@ -1,0 +1,113 @@
+
+____COLORS AND FONTS_______
+
+serif
+
+
+#eeeeee -BODY
+#FFFFFF-LINKS
+#2a9dd6 -HOVER
+#f6891c - HEADINGS
+#69cbda - HEADINGS
+
+
+Headings
+———————————
+Orange: RGBA 246, 137, 28, 0.20
+Aqua: RGBA 94, 196, 213, 0.20
+
+
+
+
+Background color:
+#eeeeee
+
+Heading and Nav Color
+#2a292f
+
+Footer/Section Divider
+#f7931d
+
+
+
+
+Copyright © The Palm Beach Code School 2016 
+
+-----------------------
+
+Programs
+
+Welcome to The Palm Beach Code School. Here you will find hands-on instruction
+at an affordable tuition… Start Your Career Path Now
+
+
+Instruction
+At the Palm Beach Code School… The Web Developer Program is designed to prepare graduates for entry level work as junior web developers in the tech industry.
+
+
+Statistics
+According to the US Department of Labor, the demand for Web Developers is projected to grow 20% over the next eight years. By learning to code, you will be preparing yourself for work in this growing industry.
+
+
+Copyright The Palm Beach Code School 2015
+
+
+
+Courses
+The Web Developer Program is our flagship program designed to prepare graduates for entry level work as junior Web Developers. The curriculum will encompass web platforms, programming, and web applications including (HTML, CSS, PHP, MySQL, Javascript, jQuery). A typical 16 week course will focus on web design principles and concepts, programming, website creation and web applications. Students can expect a section quiz approximately two to three times throughout the course. The class will use hands on individual or group exercises and project based approach to learning. Outside assignments will be based upon certain applications or chosen topics and build into a final capstone project utilizing all skills learned throughout the course. 
+
+
+Students will learn and be able to demonstrate proficiencies in:
+
+    Web Interface Design and Functionality
+
+    Web Graphic Design
+
+    Design Based Standards and Principles
+
+    Programming and Scripting Web Applications
+
+    Database Structure and Administration
+
+
+Instructors
+
+
+Paul is currently Information Technology Director coming to us from a private school in the area and sixteen years of Information Technology experience. He is a Florida native with many family ties to old Stuart. Paul is an FSU certified web developer and spent a portion of his career designing websites for various state agencies in Florida developing the first online stream broadcast of the State of the State address during Governor Lawton Chiles tenure (March, 1997). While he iss always loved web design and programming he recently learned of the huge demand for good web programmers in the industry and feels he can help others become life-long learners and pursue their dream careers. His passion is running marathons completing 8 major marathons and over 250 races across the country. 
+
+Kim is a freelance consultant whose interest in computers started in junior high school. By the time he graduated with a BS in Computer Science from New York Institute of Technology he had already worked on projects for several Fortune 500 companies. He enjoys keeping up with the latest technologies and applying them in creative ways to meet his clients needs. During the rare moments he is not in front of a computer, Kim enjoys flying trapeze and teaches classical fencing, although he has no plans to run off and join the circus.
+
+
+Misson
+The mission of The Palm Beach Code School is to teach students the fundamentals of computer science incorporating the languages, frameworks and technologies necessary to prepare graduates for employment in emerging technical and creative fields.
+
+Specific emphasis on HTML, CSS, Javascript, PHP, jQuery, MySQL and other foundational skills will be taught together in a hands-on, learn-by-doing atmosphere. The small class size combined with high quality teaching by industry professionals will ensure a quality education.
+
+Students will have the opportunity to demonstrate mastery and competence by building a web application for their Capstone project at the end of the course. 
+
+FAQs
+What courses does the school offer?
+Our flagship program is the “Web Developer Program”. It is designed to prepare graduates for work as junior web developers in the industry. For students with no (or limited) coding experience, we suggest students begin by taking the “Primer Workshop” first. It is designed to teach fundamentals and prepare students for participation in the “Web Developer Program”.
+
+
+News
+
+The Web Developer Program is designed to prepare graduates for entry level work as junior web developers in the tech industry. The curriculum teaches Front-End Design (HTML, CSS, Javascript & jQuery), Back-End Programming (PHP), and Database Management (MySQL) in a “hands-on, learn-by-doing” classroom setting.
+
+A typical 16 week course focuses on learning web design principles and concepts, programming, and creating web applications.
+
+According to the US Department of Labor, the demand for Web Developers is projected to grow 20% over the next eight years. By learning to code, you’ll be preparing yourself for work in this growing industry.
+
+
+
+
+Pages
+Your next step is to contact us to schedule a time to check out our school.
+What courses does the school offer?
+
+Our flagship program is the “Web Developer Program”. It is designed to prepare graduates for work as junior web developers in the industry. For students with no (or limited) coding experience, we suggest students begin by taking the “Primer Workshop” first. It is designed to teach fundamentals and prepare students for participation in the “Web Developer Program”.
+
+
+Blog
+
+Palm Beach Code School was a proud sponsor of SUP-X, a 2-day international conference and expo for the North American startup community.  The event was held in greater Fort Lauderdale February 16-17, 2016.   SUP-X™ [...]
